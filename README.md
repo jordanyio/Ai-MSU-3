@@ -47,7 +47,7 @@ To set up and run the AI Poker Bot, follow these steps:
 
 Once the servers are running, you can access the poker bot interface and the product recommender system UI through your browser by navigating to http://localhost:8080 or the port specified in your npm server output.
 
-Also! There are many package dependancies in the projects, you must intall them all in an envioirnment, conda or pip. Reading the server logs will help identify which packages are missing when trying to run.
+Also! There are many package dependancies in the projects, you must install them all in an envioirnment, conda or pip. Reading the server logs will help identify which packages are missing while trying to run.
 
 Enjoy playing against the AI Poker Bot or exploring product recommendations!
 
