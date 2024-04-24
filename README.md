@@ -10,10 +10,7 @@ Before you begin, ensure you have the following installed:
 
 ## Getting Started
 
-Clone the repository to your local machine:
-
-git clone https://your-repository-url.git
-cd your-repository-directory
+Clone the repository to your local machine
 
 ### Setting Up the AI Poker Bot
 
